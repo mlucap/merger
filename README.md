@@ -1,6 +1,9 @@
 # Merger
 Download and merge all videos, or shorts, from a youtube channel.
 
+## Requirements
+- yt-dlp
+- ffmpeg
 
 ## How to run
 Using [Get cookies.txt LOCALLY](https://chromewebstore.google.com/detail/get-cookiestxt-locally/cclelndahbckbenkjhflpdbgdldlbecc), export all cookies and add the 'cookies.txt' file to the folder
